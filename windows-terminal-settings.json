@@ -47,7 +47,7 @@
     {
         "defaults": 
         {
-            "fontFace": "AurulentSansMono NF Mono",
+            "fontFace": "LiterationMono NF",
             "useAcrylic": true,
             "acrylicOpacity": 0.65
         },
